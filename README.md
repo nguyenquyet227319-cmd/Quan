@@ -39,14 +39,14 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv9-hd/KenhCoBan.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/live/media/VTV_can_tho/live_hls_avc/index.m3u8
 
-#EXTINF:-1 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/VietnamToday.jpg", Vietnam Today
+#EXTINF:-1 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://vietanh18h1.duckdns.org/logo/vietnamtoday.png", Vietnam Today
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8 
 
-#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=615&time=${start}&offset=${duration}, VTV5 Tây Nam Bộ
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://vietanh18h1.duckdns.org/logo/vtv5taynambo.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=615&time=${start}&offset=${duration}, VTV5 Tây Nam Bộ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
 https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8 
 
-#EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://s7730.cdn.mytvnet.vn/vimages/d4/46/61/1c/cf/f6/d461c-pvtv5tynguynhd-channel-unkn.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=642&time=${start}&offset=${duration}, VTV5 Tây Nguyên
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://vietanh18h1.duckdns.org/logo/vtv5taynguyen.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=642&time=${start}&offset=${duration}, VTV5 Tây Nguyên
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
 https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8 
 
