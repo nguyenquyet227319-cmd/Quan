@@ -50,7 +50,7 @@ https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
 https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8 
 
-#EXTINF:-1 tvg-id="hatinh" group-title="Địa phương" tvg-logo="https://hatinhtv.vn/Media/FileManager/thumbbht/2cc3530c808035de6c91.jpg", BHTTV - Báo và PTTH Hà Tĩnh 
+#EXTINF:-1 tvg-id="hatinh" group-title="Địa phương" tvg-logo="https://freem3u.xyz/static/images/diaphuong/hatinh_new.png", BHTTV - Báo và PTTH Hà Tĩnh 
 https://freem3u.xyz/api/live/play.m3u8?vid=58
 
 #EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2025/06/04/icon_channel_the-thao-test-1_174900434903.jpg", Hà Nội 2 UHD - Đài Hà Nội 
