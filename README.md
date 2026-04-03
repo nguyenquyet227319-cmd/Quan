@@ -53,8 +53,6 @@ https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u
 #EXTINF:-1 tvg-id="hatinh" group-title="Địa phương" tvg-logo="https://freem3u.xyz/static/images/diaphuong/hatinh_new.png", BHTTV - Báo và PTTH Hà Tĩnh 
 https://freem3u.xyz/api/live/play.m3u8?vid=58
 
-#EXTINF:-1 tvg-id="hanoi2" group-title="Địa phương" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2025/06/04/icon_channel_the-thao-test-1_174900434903.jpg", Hà Nội 2 UHD - Đài Hà Nội 
-#EXTVLCOPT:http-user-agent=VMTTV https://cloudstreamhntv.tek4tv.vn/events/HN2/chunklist_w1097979085.m3u8
 
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://s7771.cdn.mytvnet.vn/vimages/8c/ce/ee/e7/79/98/8cee7-phtv1hd-channel-unkn.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htv1/${start}/${offset}", HTV1 - Đài PTTH Thành Phố Hồ Chí Minh 
 https://freem3u.xyz/api/live/play.m3u8?vid=190
@@ -68,6 +66,9 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://vietanhtv.id.vn/logo/htvthethao.png ", HTV Thể Thao HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="tv360plus1" group-title="Sự Kiện TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus1.png", TV360+1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -117,20 +118,21 @@ https://vietanhtv.id.vn/tv360/9869/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vietanhtv.id.vn/tv/cleankey.php?id=tv360plus8
 https://vietanhtv.id.vn/tv360/9870/index.mpd
-
-#EXTINF:-1 tvg-id="tv360plus9" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png", TV360+9
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360plus9/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="tv360plus10" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/30/16/1759223393533/4ff09f8a4b49_640_360.png", TV360+10
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360plus10/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="tv360plus11" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/30/16/175922342147/3c89be41fe63_640_360.png", TV360+11
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360plus11/KenhCoBan.m3u8
-
-#EXTINF:-1 tvg-id="tv360plus12" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2026/03/05/10/1772681417916/2433e49579ab_640_360.png", TV360+12
+#EXTINF:-1 tvg-id="tv360plus9" group-title="Sự Kiện TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus9.png", TV360+9
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vietanhtv.id.vn/tv360/9887/index.m3u8
+#EXTINF:-1 tvg-id="tv360plus10" group-title="Sự Kiện TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus10.png", TV360+10
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vietanhtv.id.vn/tv360/9957/index.m3u8
+#EXTINF:-1 tvg-id="tv360plus11" group-title="Sự Kiện TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus11.png", TV360+11
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vietanhtv.id.vn/tv360/9958/index.m3u8
+#EXTINF:-1 tvg-id="tv360plus12" group-title="Sự Kiện TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus12.png", TV360+12
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=70d033252d025d719ba70a37acc0f5c8:6ca465d8b3018f1604da6d43d3395a6d
-https://kubolive.ddns.net/vanh_tv.php?provider=tv360&id=10001
+#KODIPROP:inputstream.adaptive.license_key=https://vietanhtv.id.vn/tv/cleankey.php?id=tv360plus12
+https://vietanhtv.id.vn/tv360/10001/index.mpd
 
 #EXTINF:-1 group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/17/17/175810574912/a5f8181388ab_640_360.png", TV360 Promo 
 https://freem3u.xyz/api/live/play.m3u8?vid=9904
