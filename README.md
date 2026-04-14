@@ -127,7 +127,7 @@ https://vietanhtv.id.vn/tv360/9957/index.m3u8
 #EXTINF:-1 tvg-id="tv360plus11" group-title="Sự Kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/05/11/1775362675178/41a612b20e5c_480_270.png", 360 Nhịp Đập
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vietanhtv.id.vn/tv360/9958/index.m3u8
-#EXTINF:-1 tvg-id="tv360plus12" group-title="Sự Kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/04/11/1775278691563/bb5f3a7468ca_480_270.png", 360 Tốc Độ
+#EXTINF:-1 tvg-id="tv360plus12" group-title="Sự Kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/09/21/1775744645631/2942e1709edd_640_360.png", 360  Công thức 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
