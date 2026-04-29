@@ -2,7 +2,7 @@
 #EXTM3U url-tvg="https://hnlive.dramahay.xyz/epg.xml"
 #EXTM3U url-tvg="https://tvbvn.quanlehong539.workers.dev/xml"
 
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://vietanh18h1.duckdns.org/logo/vtv1.png" , VTV1 HD
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://vietanh18h1.duckdns.org/logo/vtv1.png" , VTV1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
 
