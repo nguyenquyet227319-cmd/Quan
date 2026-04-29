@@ -322,8 +322,7 @@ https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
 #EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 16
 https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
 
-#EXTINF:-1 group-title="LIVE EVENTS " tvg-logo="https://vtvgo.vn/video/play/chuong-trinh-nghe-thuat-chinh-luan-dac-biet-am-vang-to-quoc-2,OlgHKdqJBL.html", Âm Vang Tổ Quốc 
-https://vtvgo-vods.vtvdigital.vn/w0xf9OFrpBcVuMgwdMB42Q/1777529618/vtvgo-media/vod/2026/04/29/CHUONGTRINHTRUCTIEP.mp4/index.m3u8
+
 
 
 
