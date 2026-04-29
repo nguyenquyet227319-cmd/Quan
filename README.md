@@ -62,11 +62,13 @@ https://live.fptplay53.net/fnxsd1/nghean_hls.smil/chunklist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://s7771.cdn.mytvnet.vn/vimages/8c/ce/ee/e7/79/98/8cee7-phtv1hd-channel-unkn.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htv1/${start}/${offset}", HTV1 - Đài PTTH Thành Phố Hồ Chí Minh 
-https://freem3u.xyz/api/live/play.m3u8?vid=190
+#EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://vietanhtv.id.vn/logo/htv1.png ", HTV1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+https://vietanhtv.id.vn/htv/2631/index.m3u8
 
-#EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="https://s7771.cdn.mytvnet.vn/vimages/b4/4c/c3/36/68/86/b4c36-phtv3hd-channel-unkn.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv3_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV3 - Đài PTTH Thành Phố Hồ Chí Minh
- https://freem3u.xyz/api/live/play.m3u8?vid=192 
+#EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="https://vietanhtv.id.vn/logo/htv3.png ", HTV3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+https://vietanhtv.id.vn/htv/2535/index.m3u8
 
 #EXTINF:-1 tvg-id="htvkey" group-title="HTV" tvg-logo="https://s7771.cdn.mytvnet.vn/vimages/2a/a0/00/07/7b/b1/2a007-phtvkeyhd-channel-unkn.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htv-key/${start}/${offset}", HTV Key - Đài PTTH Thành Phố Hồ Chí Minh 
 https://freem3u.xyz/api/live/play.m3u8?vid=9
