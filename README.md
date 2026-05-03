@@ -180,6 +180,8 @@ https://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="Event FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Event 6
 https://live.fptplay53.net/live/media/event-06/hls_avc_v6/index.m3u8
 
+#EXTINF:-1 group-title="Event FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Event 9
+https://vips-livecdn.fptplay.net/live/media/event-09/hls_avc_v6/index.m3u8
 
 
 
