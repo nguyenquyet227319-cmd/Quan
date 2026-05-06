@@ -162,7 +162,8 @@ https://live.fptplay53.net/live/media/event-01-4k/hls_avc_v6/index.m3u8
  https://live.fptplay53.net/live/media/event-02/hls_avc_v6/index.m3u8 
 
 
-
+#EXTINF:-1 group-title="Event FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Event 3
+https://live.fptplay53.net/live/media/event-03/hls_avc_v6/index.m3u8
 
 
 
