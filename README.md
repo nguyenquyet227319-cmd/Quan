@@ -338,7 +338,7 @@ https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
 
 
 
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1200px-TV_Asahi_Logo.svg.png",Asahi HD
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ5Y2eAVbYpEHD5DLMLncZWXgUtKR4tMMLd2wmJpbkdA&s=10",Asahi HD
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd06
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1200px-TV_Asahi_Logo.svg.png",Asahi
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
