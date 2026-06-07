@@ -136,7 +136,7 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=2458
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9867
 
 #EXTINF:-1 tvg-id="tv360plus6" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/24/22/1727190010448/7463a4b5c14d_640_360.png", TV360+6
-https://sgclient.duckdns.org/source/tv360.m3u8?id=9868
+https://pop2-ec3-ateme.tv360.vn/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgwODU2MzMzIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy8zNjgvSExTX1NEUk1fTUhOXzJzLyIsInNlc3Npb25fY2RuX2lkIjoiNWFhYTEyOWVlYjY3NTMxMSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTcyLjI0LjE2OC4xNjQiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjEyIiwic291cmNlcyI6WzE5OCw0NjIsNDY1LDQ2OV19.vXKUa4dB_hHh2pZWAsQDgRN0puuvCeQnVMKi-qZSEaU63cUdjZPZ03SudaY6de6O-6XFY2XBniHgoVMD4Vgvlg==/live/eds/368/HLS_SDRM_MHN_2s/index.m3u8?uid=19680
 
 #EXTINF:-1 tvg-id="tv360plus7" group-title="Sự Kiện TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus7.png", TV360+7
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
