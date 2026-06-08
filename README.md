@@ -24,6 +24,8 @@ https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist_b4200000.m3u8
 https://live-a.fptplay53.net/live/media/VTV5HD/live_hls_avc/VTV5HD-avc1_3800000=10000-mp4a_131600=20000.m3u8
 #https://vpsttt.vietanhtv.top/tv360/tv360.php?id=110
 
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV6.png", VTV6
+https://sgclient.duckdns.org/source/tv360.m3u8?id=10043
 
 
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://vietanh18h1.duckdns.org/logo/vtv7.png" , VTV7 
