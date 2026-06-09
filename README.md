@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml"  
 
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://vietanh18h1.duckdns.org/logo/vtv1.png" , VTV1 
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://vietanh18h1.duckdns.org/logo/vtv1.png" , VTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
 
@@ -9,31 +9,32 @@ https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=100
 https://live.fptplay53.net/live/media/vtv2/live247-hls-avc/vtv2-avc1_5600000=10000-mp4a_131600=20000.m3u8
 
 
-#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://vietanh18h1.duckdns.org/logo/vtv3.png" , VTV3 
+#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://vietanh18h1.duckdns.org/logo/vtv3.png" , VTV3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 https://live.fptplay53.net/live/media/vtv3/live247-hls-avc/vtv3-avc1_5600000=10000-mp4a_131600=20000.m3u8
 
 
-#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://vietanh18h1.duckdns.org/logo/vtv4.png" , VTV4 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0 https://live.fptplay53.net/live/media/vtv4/live247-hls-avc/vtv4-avc1_5600000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://vietanh18h1.duckdns.org/logo/vtv4.png" , VTV4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+https://live.fptplay53.net/live/media/vtv4/live247-hls-avc/vtv4-avc1_5600000=10000-mp4a_131600=20000.m3u8
 
 
-#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://vietanh18h1.duckdns.org/logo/vtv5.png" , VTV5 
+#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://vietanh18h1.duckdns.org/logo/vtv5.png" , VTV5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 https://live.fptplay53.net/live/media/vtv5/live247-hls-avc/vtv5-avc1_5600000=10000-mp4a_131600=20000.m3u8
 
-#EXTINF:-1 tvg-id="vtv6" group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/08/08/178088041953/212d026a8523_640_360.png" , VTV6
+#EXTINF:-1 tvg-id="vtv6" group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/08/08/178088041953/212d026a8523_640_360.png" , VTV6 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 https://live.fptplay53.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_5600000=10000-mp4a_131600=20000.m3u8
 
 
 
-#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://vietanh18h1.duckdns.org/logo/vtv7.png" , VTV7 
+#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://vietanh18h1.duckdns.org/logo/vtv7.png" , VTV7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
 #https://vpsttt.vietanhtv.top/tv360/tv360.php?id=6
 
-#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://vietanh18h1.duckdns.org/logo/vtv8.png" , VTV8 
+#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://vietanh18h1.duckdns.org/logo/vtv8.png" , VTV8 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 
@@ -41,7 +42,7 @@ https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=8
 
-#EXTINF:-1 tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/VTV10.png" ,VTV10 
+#EXTINF:-1 tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/VTV10.png" ,VTV10 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 https://live.fptplay53.net/live/media/VTV_can_tho/live_hls_avc/VTV_can_tho-avc1_3800000=10000-mp4a_131600=20000.m3u8
 #https://vpsttt.vietanhtv.top/tv360/tv360.php?id=98
