@@ -32,7 +32,7 @@ https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 #https://vpsttt.vietanhtv.top/tv360/tv360.php?id=8
 https://live.fptplay53.net/live/media/vtv9/live247-hls-avc/vtv9-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 tvg-id="vtv10" group-title="VTV" tvg-logo="https://vietanh18h1.duckdns.org/logo/vtv10.png" , VTV10 HD
+#EXTINF:-1 tvg-id="vtv10" group-title="VTV" tvg-logo="http://vietanh18h1.duckdns.org/ic/vietnamtoday.png" , VTV10 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 https://live.fptplay53.net/live/media/vtv10/live247-hls-avc/vtv10-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #https://vpsttt.vietanhtv.top/tv360/tv360.php?id=98
