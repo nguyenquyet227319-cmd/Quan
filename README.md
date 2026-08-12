@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://vnepg.site/epg.xml"  
+#EXTM3U url-tvg="https://epg.io.vn/epg.xml"
 
 
 
