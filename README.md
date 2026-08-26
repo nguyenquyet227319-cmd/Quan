@@ -241,17 +241,23 @@ https://live.fptplay53.net/live/media/event-01-4k/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="Event FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Event 2
  https://vips-livecdn.fptplay.net/live/media/event-02/hls_avc_v6/index.m3u8
 
-#EXTINF:-1 group-title="Event FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Event 2 (4K)
+#EXTINF:-1 group-title="Event FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Event 2 4K
 https://vips-livecdn.fptplay.net/live/media/event-02-4k/dash_hvc/index.mpd
 
-#EXTINF:-1 group-title="Event FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Event 2 (FHD)
+#EXTINF:-1 group-title="Event FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Event 2 FHD
 https://vips-livecdn.fptplay.net/live/media/event-02-4k/hls_avc_v6/index.m3u8?sign=1787385640-NDI5MjY2NQ-0-b07067cb6a1791fe272bcc2e20ecc0d1
 
 #EXTINF:-1 group-title="Event FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Event 3
 https://vips-livecdn.fptplay.net/live/media/event-03/hls_avc_v6/index.m3u8
 
+
+
+
 #EXTINF:-1 group-title="Event FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Event 3 4K
-https://vips-livecdn.fptplay.net/live/media/su-kien-03-4k/4k_hls_avc_v6/index.m3u8?sign=1785496828-NDI5MjY2NQ-0-600a9637475115ef47e06c9b1050b064
+https://vips-livecdn.fptplay.net/live/media/su-kien-03-4k/4k_dash_hvc/index.mpd
+
+#EXTINF:-1 group-title="Event FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Event 3 FHD
+https://vips-livecdn.fptplaY.net/live/media/su-kien-03-4k/4k_hls_avc_v6/index.m3u8?sign=1787744789-NDI5MjY2NQ-0-1b81d098cc83672daaf5ce87e1070a24
 
 #EXTINF:-1 group-title="Event FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Event 4
 https://vips-livecdn.fptplay.net/live/media/event-04/hls_avc_v6/index.m3u8
