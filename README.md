@@ -292,8 +292,11 @@ https://vips-livecdn.fptplay.net/live/media/event-35/dash_a_drm/index.mpd
 #EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự Kiện 1 
 https://vips-livecdn.fptplay.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
 
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự Kiện 1 4K
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự Kiện 1 FHD
 https://live.fptplay53.net/live/media/su-kien-01-4k/hls_avc_v6/index.m3u8
+
+#EXTINF:-1 group-title="Sự kiện FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự kiện 1 4K 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 https://vips-livecdn.fptplay.net/live/media/su-kien-01-4k/dash_hvc/index.mpd
 
 #EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự Kiện 2 
 https://vips-livecdn.fptplay.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
@@ -302,7 +305,7 @@ https://vips-livecdn.fptplay.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
 https://vips-livecdn.fptplay.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
 
 
-#EXTINF:-1 group-title="Sự kiện FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự kiện 3 4K #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 https://vips-livecdn.fptplay.net/live/media/su-kien-01-4k/dash_hvc/index.mpd
+
 
 #EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự Kiện 4 
 https://vips-livecdn.fptplay.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
