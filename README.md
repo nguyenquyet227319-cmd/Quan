@@ -194,9 +194,11 @@ https://tv.vietanhtv.top/tv360/tv360.php?id=9870&expires=1785774205&token=9bc386
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tv.vietanhtv.top/tv360/tv360.php?id=9887&expires=1785774205&token=704e779d9d8ddc8988dcba4de48ce734
 
+
 #EXTINF:-1 tvg-id="tv360plus10" group-title="Sự Kiện TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus10.png", TV360+10
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=9957&expires=1785774205&token=d3cbbc7b79e447972b87c9e50fcfa162
+https://tv.vietanhtv.top/tv360/tv360.php?id=9957&expires=1788221484&token=8d786a2d0c87e097203c7db4a7af7189
+
 
 #EXTINF:-1 tvg-id="tv360plus11" group-title="Sự Kiện TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus11.png", TV360+11
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -296,7 +298,6 @@ https://vips-livecdn.fptplay.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
 https://live.fptplay53.net/live/media/su-kien-01-4k/hls_avc_v6/index.m3u8
 
 #EXTINF:-1 group-title="Sự kiện FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự kiện 1 4K 
-
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 https://vips-livecdn.fptplay.net/live/media/su-kien-01-4k/dash_hvc/index.mpd
 
 #EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự Kiện 2 
@@ -441,10 +442,6 @@ https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
 
 
 
-
-#EXTINF:-1 tvg-id="360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/08/21/10/1787282358832/d1274ba32e94_640_360.png", Bóng Chuyền
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://livestream-evg8.tv360.vn/8sSMEnionojlAGccqFj8dg/1787637309/manifest/livestream-04/playlist_1080p.m3u8
 
 
 
