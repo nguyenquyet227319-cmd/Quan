@@ -197,7 +197,7 @@ https://tv.vietanhtv.top/tv360/tv360.php?id=9887&expires=1785774205&token=704e77
 
 #EXTINF:-1 tvg-id="tv360plus10" group-title="Sự Kiện TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus10.png", TV360+10
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=9957&expires=1788221484&token=8d786a2d0c87e097203c7db4a7af7189
+https://tv.vietanhtv.top/tv360/tv360.php?id=9957&expires=1788431527&token=2f2ad19a1ece2c6338d7c61467b967d6
 
 
 #EXTINF:-1 tvg-id="tv360plus11" group-title="Sự Kiện TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus11.png", TV360+11
