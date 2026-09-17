@@ -445,7 +445,8 @@ https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
 https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
 
 
-
+#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV go" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv7.png" , VTV7 HD
+https://vtvgolive-vtv02.vtvdigital.vn/tjK46bDNxDHLVf2NFZwONw/1789511313/hls/vtv/live/vtv7/free/master.m3u8
 
 
 
