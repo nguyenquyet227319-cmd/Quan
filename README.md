@@ -458,9 +458,9 @@ https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-sk/asiad_1_paid/live/asiad_1
 #EXTINF:-1 group-title="Asian Games Aichi-Nagoya 2026" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/metadata/20260920/2026092011/kuerYrP8Uk-thumbliveasiadvtvgohngngy1.webp&width=1080", TRỰC TIẾP 2
 https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-sk/asiad_2_paid/live/asiad_2_1080p/chunks.m3u8
 
-#EXTINF:-1 group-title="FIFA ASEAN Cup 2026" tvg-logo="https://hongkongfp.com/wp-content/uploads/2026/09/brave_bJwrT9j1Op-1050x589.jpg", ViuTVsix Ch.96
+#EXTINF:-1 group-title="FIFA ASEAN CUP 2026" tvg-logo="https://hongkongfp.com/wp-content/uploads/2026/09/brave_bJwrT9j1Op-1050x589.jpg", ViuTVsix Ch.96
 https://cdn.qd.je/163189/viu6
-#EXTINF:-1 group-title="FIFA ASEAN Cup 2026" tvg-logo="https://hongkongfp.com/wp-content/uploads/2026/09/brave_bJwrT9j1Op-1050x589.jpg", Channel 5 
+#EXTINF:-1 group-title="FIFA ASEAN CUP 2026" tvg-logo="https://hongkongfp.com/wp-content/uploads/2026/09/brave_bJwrT9j1Op-1050x589.jpg", Channel 5 
 http://iptv.852851.xyz/l/DZamTMlu946vwy3fUZETkok2Z76PyCysJeR4FvOb70bG3fsHw0WCme7NgFmvsYPb/index.m3u8
 
 
