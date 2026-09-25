@@ -458,3 +458,10 @@ https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-sk/asiad_1_paid/live/asiad_1
 #EXTINF:-1 group-title="Asian Games Aichi-Nagoya 2026" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/metadata/20260920/2026092011/kuerYrP8Uk-thumbliveasiadvtvgohngngy1.webp&width=1080", TRỰC TIẾP 2
 https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-sk/asiad_2_paid/live/asiad_2_1080p/chunks.m3u8
 
+#EXTINF:-1 group-title="FIFA ASEAN Cup 2026" tvg-logo="https://viu.tv/staticV3/images/placeholder/1x1_transparent_placeholder.png", ViuTVsix Ch.96
+https://cdn.qd.je/163189/viu6
+
+
+
+
+
