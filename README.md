@@ -461,7 +461,7 @@ https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-sk/asiad_2_paid/live/asiad_2
 #EXTINF:-1 group-title="FIFA ASEAN Cup 2026" tvg-logo="https://viu.tv/staticV3/images/placeholder/1x1_transparent_placeholder.png", ViuTVsix Ch.96
 https://cdn.qd.je/163189/viu6
 #EXTINF:-1 group-title="FIFA ASEAN Cup 2026" tvg-logo="https://static.viu.tv/resized-1280/8IrHwwAorBoEF47F.jpg", 
-channel 5 
+Channel 5 
 http://iptv.852851.xyz/l/DZamTMlu946vwy3fUZETkok2Z76PyCysJeR4FvOb70bG3fsHw0WCme7NgFmvsYPb/index.m3u8
 
 
