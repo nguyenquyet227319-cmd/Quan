@@ -463,4 +463,9 @@ https://cdn.qd.je/163189/viu6
 #EXTINF:-1 group-title="FIFA ASEAN CUP 2026" tvg-logo="https://hongkongfp.com/wp-content/uploads/2026/09/brave_bJwrT9j1Op-1050x589.jpg", Channel 5 
 http://iptv.852851.xyz/l/DZamTMlu946vwy3fUZETkok2Z76PyCysJeR4FvOb70bG3fsHw0WCme7NgFmvsYPb/index.m3u8
 
-
+#EXTINF:-1 group-title="FIFA ASEAN CUP 2026" tvg-logo="https://hongkongfp.com/wp-content/uploads/2026/09/brave_bJwrT9j1Op-1050x589.jpg", Mewatch Live 5
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
+https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
