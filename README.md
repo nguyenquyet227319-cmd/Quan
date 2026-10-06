@@ -75,25 +75,23 @@ https://vips-livecdn.fptplay.net/live/media/vtv5tn/live-hls-avc/vtv5tn-avc1_4000
 
 #EXTINF:-1 tvg-id="hatinh" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/diaphuong/hatinh_new.png", BHTTV HD | TH Hà Tĩnh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.
-https://live.fptplay53.net/fnxsd1/hatinh_hls.smil/chunklist.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=58
 #https://wse.hatinhtv.net/live/httv1/playlist.m3u8
 #https://liveh34.vtvprime.vn/hls/HATINH/index.m3u8
 
 #EXTINF:-1 tvg-id="nghean" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/diaphuong/nghean.png", NTV HD | TH Nghệ An
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/fnxsd1/nghean_hls.smil/chunklist.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=74
 #https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/playlist.m3u8
 #https://liveh12byt.vtvprime.vn/hls/NGHEANTV/index.m3u8
 
 #EXTINF:-1 tvg-id="danang1" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/danang1.png", DaNangTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/epzsd1/danang1_hls.smil/chunklist.m3u8
-#https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/playlist.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=49
 
 #EXTINF:-1 tvg-id="danang2" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/danang2.png", DaNangTV2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/epzsd1/danang2_hls.smil/chunklist.m3u8
-#https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=80
 #EXTINF:-1 tvg-id="antv-hd" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/thietyeu/antv.png", ANTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
