@@ -446,10 +446,10 @@ http://iptv.852851.xyz/l/DZamTMlu946vwy3fUZETkok2Z76PyCysJeR4FvOb70bG3fsHw0WCme7
 
 
 
-#EXTINF:-1 tvg-id="fpt-event-su-kien-06" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/09/slide-thumb_1791530115530.jpg", Sự Kiện 6
+#EXTINF:-1 tvg-id="fpt-event-su-kien-06" group-title="Sự Kiện FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự Kiện 6
 https://vips-livecdn.fptplay.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="fpt-event-su-kien-01" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/09/slide-thumb_1791530115530.jpg", Sự Kiện 1
+#EXTINF:-1 tvg-id="fpt-event-su-kien-01" group-title="Sự Kiện FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự Kiện 1
 https://vips-livecdn.fptplay.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
