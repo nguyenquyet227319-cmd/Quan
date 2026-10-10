@@ -295,7 +295,14 @@ https://vips-livecdn.fptplay.net/live/media/event-11/hls_avc_v6/index.m3u8
 https://vips-livecdn.fptplay.net/live/media/event-01/hls_avc_v6/index.m3u8
 
 
-#EXTINF:-1 tvg-id="fpt-event-su-kien-01" group-title="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự Kiện 1 
+#EXTINF:-1 tvg-id="fpt-event-event-18-4k" group-title="Event FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Event 18 (4K)
+https://fbox-livecdn.fptplay.net/live/media/event-01-4k/4k_hls_hvc/index.m3u8
+#EXTINF:-1 tvg-id="fpt-event-event-18-4k" group-title="Event FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Event 18 FHD
+https://vips-livecdn.fptplay.net/live/media/event-01-4k/4k_hls_avc_v6/index.m3u8?sign=1791624102-MDc1OTczMzQ-0-00de8e921c801d8adb815ad0956258ce
+
+
+
+#EXTINF:-1 tvg-id="fpt-event-su-kien-01" group-title="Sự Kiện FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự Kiện 1 
 https://vips-livecdn.fptplay.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
 
 #EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự Kiện 1 FHD 
@@ -306,43 +313,43 @@ https://live.fptplay53.net/live/media/su-kien-01-4k/hls_avc_v6/index.m3u8
 tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự kiện 1 4K ",#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vips-livecdn.fptplay.net/live/media/su-kien-01-4k/dash_hvc/index.mpd
 
-#EXTINF:-1 tvg-id="fpt-event-su-kien-02" group-title="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự Kiện 2 
+#EXTINF:-1 tvg-id="fpt-event-su-kien-02" group-title="Sự Kiện FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự Kiện 2 
 https://vips-livecdn.fptplay.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
 
-#EXTINF:-1 tvg-id="fpt-event-su-kien-03" group-title="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự Kiện 3 
+#EXTINF:-1 tvg-id="fpt-event-su-kien-03" group-title="Sự Kiện FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự Kiện 3 
 https://vips-livecdn.fptplay.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="fpt-event-su-kien-04" group-title="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự Kiện 4 
+#EXTINF:-1 tvg-id="fpt-event-su-kien-04" group-title="Sự Kiện FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự Kiện 4 
 https://vips-livecdn.fptplay.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
 
 
-#EXTINF:-1 tvg-id="fpt-event-su-kien-05" group-title="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự Kiện 5
+#EXTINF:-1 tvg-id="fpt-event-su-kien-05" group-title="Sự Kiện FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự Kiện 5
 https://vips-livecdn.fptplay.net/live/media/su-kien-05/hls_avc_v6/index.m3u8
 
-#EXTINF:-1 tvg-id="fpt-event-su-kien-06" group-title="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự Kiện 6 
+#EXTINF:-1 tvg-id="fpt-event-su-kien-06" group-title="Sự Kiện FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự Kiện 6 
 https://vips-livecdn.fptplay.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
 
-#EXTINF:-1 tvg-id="fpt-event-su-kien-07" group-title="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự Kiện 7 
+#EXTINF:-1 tvg-id="fpt-event-su-kien-07" group-title="Sự Kiện FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự Kiện 7 
 https://vips-livecdn.fptplay.net/live/media/su-kien-07/hls_avc_v6/index.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="fpt-event-su-kien-08" group-title="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự Kiện 8
+#EXTINF:-1 tvg-id="fpt-event-su-kien-08" group-title="Sự Kiện FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự Kiện 8
 https://vips-livecdn.fptplay.net/live/media/su-kien-08/hls_avc_v6/index.m3u8
-#EXTINF:-1 tvg-id="fpt-event-su-kien-09" group-title="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự Kiện 9
+#EXTINF:-1 tvg-id="fpt-event-su-kien-09" group-title="Sự Kiện FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự Kiện 9
 https://vips-livecdn.fptplay.net/live/media/su-kien-09/hls_avc_v6/index.m3u8
-#EXTINF:-1 tvg-id="fpt-event-su-kien-10" group-title="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự Kiện 10
+#EXTINF:-1 tvg-id="fpt-event-su-kien-10" group-title="Sự Kiện FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự Kiện 10
 https://vips-livecdn.fptplay.net/live/media/su-kien-10/hls_avc_v6/index.m3u8
 
-#EXTINF:-1 tvg-id="fpt-event-su-kien-11" group-title="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự Kiện 11
+#EXTINF:-1 tvg-id="fpt-event-su-kien-11" group-title="Sự Kiện FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự Kiện 11
 https://vips-livecdn.fptplay.net/live/media/su-kien-11/hls_avc_v6/index.m3u8
 
 
-#EXTINF:-1 tvg-id="fpt-event-su-kien-12" group-title="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự Kiện 12
+#EXTINF:-1 tvg-id="fpt-event-su-kien-12" group-title="Sự Kiện FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự Kiện 12
 https://vips-livecdn.fptplay.net/live/media/su-kien-12/hls_avc_v6/index.m3u8
 
 
@@ -447,74 +454,7 @@ http://iptv.852851.xyz/l/DZamTMlu946vwy3fUZETkok2Z76PyCysJeR4FvOb70bG3fsHw0WCme7
 
 
 
-#EXTINF:-1 tvg-id="fpt-event-event-01" group-title="Event FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Event 1 https://live.fptplay53.net/live/media/event-01/hls_avc_v6/index.m3u8
-
-#EXTINF:-1 tvg-id="fpt-event-event-02" group-title="Event FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Event 2 https://live.fptplay53.net/live/media/event-02/hls_avc_v6/index.m3u8
-
-#EXTINF:-1 tvg-id="fpt-event-event-03" group-title="Event FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Event 3 https://live.fptplay53.net/live/media/event-03/hls_avc_v6/index.m3u8
-
-#EXTINF:-1 tvg-id="fpt-event-event-04" group-title="Event FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Event 4 https://live.fptplay53.net/live/media/event-04/hls_avc_v6/index.m3u8
-
-#EXTINF:-1 tvg-id="fpt-event-event-05" group-title="Event FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Event 5 https://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
-
-#EXTINF:-1 tvg-id="fpt-event-event-06" group-title="Event FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Event 6 https://live.fptplay53.net/live/media/event-06/hls_avc_v6/index.m3u8
-
-#EXTINF:-1 tvg-id="fpt-event-event-07" group-title="Event FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Event 7 https://live.fptplay53.net/live/media/event-07/hls_avc_v6/index.m3u8
-
-#EXTINF:-1 tvg-id="fpt-event-event-08" group-title="Event FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Event 8 https://live.fptplay53.net/live/media/event-08/hls_avc_v6/index.m3u8
-
-#EXTINF:-1 tvg-id="fpt-event-event-09" group-title="Event FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Event 9 https://live.fptplay53.net/live/media/event-09/hls_avc_v6/index.m3u8
-
-#EXTINF:-1 tvg-id="fpt-event-event-10" group-title="Event FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Event 10 https://live.fptplay53.net/live/media/event-10/hls_avc_v6/index.m3u8
-
-#EXTINF:-1 tvg-id="fpt-event-event-11" group-title="Event FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Event 11 https://live.fptplay53.net/live/media/event-11/hls_avc_v6/index.m3u8
-
-#EXTINF:-1 tvg-id="fpt-event-event-12" group-title="Event FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Event 12 https://live.fptplay53.net/live/media/event-12/hls_avc_v6/index.m3u8
-
-
-#EXTINF:-1 tvg-id="fpt-event-event-18" group-title="Event FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Event 18
-https://vips-livecdn.fptplay.net/live/media/event-01/hls_avc_v6/index.m3u8
-
-
-#EXTINF:-1 tvg-id="fpt-event-su-kien-01" group-title="Sự Kiện FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự Kiện 1
-https://vips-livecdn.fptplay.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
-
-#EXTINF:-1 tvg-id="fpt-event-su-kien-02" group-title="Sự Kiện FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự Kiện 2
-https://vips-livecdn.fptplay.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
-
-#EXTINF:-1 tvg-id="fpt-event-su-kien-03" group-title="Sự Kiện FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự Kiện 3
-https://vips-livecdn.fptplay.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
-
-#EXTINF:-1 tvg-id="fpt-event-su-kien-04" group-title="Sự Kiện FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự Kiện 4
-https://vips-livecdn.fptplay.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
-
-#EXTINF:-1 tvg-id="fpt-event-su-kien-05" group-title="Sự Kiện FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự Kiện 5
-https://vips-livecdn.fptplay.net/live/media/su-kien-05/hls_avc_v6/index.m3u8
-
-#EXTINF:-1 tvg-id="fpt-event-su-kien-06" group-title="Sự Kiện FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự Kiện 6
-https://vips-livecdn.fptplay.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
-
-#EXTINF:-1 tvg-id="fpt-event-su-kien-07" group-title="Sự Kiện FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự Kiện 7
-https://vips-livecdn.fptplay.net/live/media/su-kien-07/hls_avc_v6/index.m3u8
-
-#EXTINF:-1 tvg-id="fpt-event-su-kien-08" group-title="Sự Kiện FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự Kiện 8
-https://vips-livecdn.fptplay.net/live/media/su-kien-08/hls_avc_v6/index.m3u8
-
-#EXTINF:-1 tvg-id="fpt-event-su-kien-09" group-title="Sự Kiện FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự Kiện 9
-https://vips-livecdn.fptplay.net/live/media/su-kien-09/hls_avc_v6/index.m3u8
-
-#EXTINF:-1 tvg-id="fpt-event-su-kien-10" group-title="Sự Kiện FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự Kiện 10
-https://vips-livecdn.fptplay.net/live/media/su-kien-10/hls_avc_v6/index.m3u8
-
-#EXTINF:-1 tvg-id="fpt-event-su-kien-11" group-title="Sự Kiện FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự Kiện 11
-https://vips-livecdn.fptplay.net/live/media/su-kien-11/hls_avc_v6/index.m3u8
-
-#EXTINF:-1 tvg-id="fpt-event-su-kien-12" group-title="Sự Kiện FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự Kiện 12
-https://vips-livecdn.fptplay.net/live/media/su-kien-12/hls_avc_v6/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="fpt-event-event-18-4k" group-title="Event FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Event 18 (4K)
-https://fbox-livecdn.fptplay.net/live/media/event-01-4k/4k_hls_hvc/index.m3u8
-#EXTINF:-1 tvg-id="fpt-event-event-18-4k" group-title="Event FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Event 18 FHD
-https://vips-livecdn.fptplay.net/live/media/event-01-4k/4k_hls_avc_v6/index.m3u8?sign=1791624102-MDc1OTczMzQ-0-00de8e921c801d8adb815ad0956258ce
+
