@@ -242,7 +242,7 @@ https://live.fptplay53.net/live/media/event-01-4k/hls_avc_v6/index.m3u8
 #EXTINF:-1 tvg-id="fpt-event-event-02" group-title="Event FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Event 2
  https://vips-livecdn.fptplay.net/live/media/event-02/hls_avc_v6/index.m3u8
 
-#EXTINF:-1 tvg-id="fpt-event-event-02-4k" group-title="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Event 2 4K
+#EXTINF:-1 tvg-id="fpt-event-event-02-4k" group-title="Event FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Event 2 4K
 https://vips-livecdn.fptplay.net/live/media/event-02-4k/dash_hvc/index.mpd
 
 
@@ -253,7 +253,7 @@ https://vips-livecdn.fptplay.net/live/media/event-03/hls_avc_v6/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="fpt-event-event-03-4k" group-title="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Event 3 4K
+#EXTINF:-1 tvg-id="fpt-event-event-03-4k" group-title="Event FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Event 3 4K
 https://vips-livecdn.fptplay.net/live/media/su-kien-03-4k/4k_dash_hvc/index.mpd
 
 
