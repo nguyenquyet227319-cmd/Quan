@@ -352,7 +352,11 @@ https://vips-livecdn.fptplay.net/live/media/su-kien-11/hls_avc_v6/index.m3u8
 #EXTINF:-1 tvg-id="fpt-event-su-kien-12" group-title="Sự Kiện FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự Kiện 12
 https://vips-livecdn.fptplay.net/live/media/su-kien-12/hls_avc_v6/index.m3u8
 
+#EXTINF:-1 tvg-id="fpt-event-su-kien-30" group-title="Sự Kiện FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự Kiện 30 https://vips-livecdn.fptplay.net/live/media/su-kien-30/hls_avc_v6/index.m3u8
 
+#EXTINF:-1 tvg-id="fpt-event-su-kien-37" group-title="Sự Kiện FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự Kiện 37 https://vips-livecdn.fptplay.net/live/media/su-kien-37/hls_avc_v6/index.m3u8
+
+#EXTINF:-1 tvg-id="fpt-event-su-kien-38" group-title="Sự Kiện FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự Kiện 38 https://vips-livecdn.fptplay.net/live/media/su-kien-38/hls_avc_v6/index.m3u8
 
 #EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
