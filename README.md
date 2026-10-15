@@ -237,7 +237,11 @@ https://tv.vietanhtv.top/tv360/tv360.php?id=10024&expires=1789547855&token=883c3
  https://live.fptplay53.net/live/media/event-01/hls_avc_v6/index.m3u8 
 
 #EXTINF:-1 tvg-id="fpt-event-event-01-4k" group-title="Event FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Event 1 4K
-https://live.fptplay53.net/live/media/event-01-4k/hls_avc_v6/index.m3u8
+https://fbox-livecdn.fptplay.net/live/media/event-01-4k/4k_hls_hvc/index.m3u8
+
+
+#EXTINF:-1 tvg-id="fpt-event-event-01-4k" group-title="Event FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Event 1 FHD
+https://vips-livecdn.fptplay.net/live/media/event-01-4k/4k_hls_avc_v6/index.m3u8
 
 #EXTINF:-1 tvg-id="fpt-event-event-02" group-title="Event FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Event 2
  https://vips-livecdn.fptplay.net/live/media/event-02/hls_avc_v6/index.m3u8
