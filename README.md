@@ -301,7 +301,7 @@ https://fbox-livecdn.fptplay.net/live/media/event-01-4k/4k_hls_hvc/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="fpt-event-su-kien-01" group-title="Sự Kiện FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự Kiện 1 
+#EXTINF:-1 tvg-id="fpt-event-su-kien-28" group-title="Sự Kiện FPT PLAY" tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự Kiện 1 
 https://vips-livecdn.fptplay.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
 
 #EXTINF:-1 tvg-id="fpt-event-su-kien-01-4k" group-title="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png", Sự Kiện 1 FHD 
