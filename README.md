@@ -116,7 +116,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=191
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 https://freem3u.xyz/api/live/play.m3u8?vid=192
 
-#EXTINF:-1 tvg-id="htvkey" group-title="HTV" tvg-logo="https://vietanhtv.id.vn/logo/htvkey.png", HTV Key
+#EXTINF:-1 tvg-id="htv4" group-title="HTV" tvg-logo="https://vietanhtv.id.vn/logo/htvkey.png", HTV4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 https://freem3u.xyz/api/live/play.m3u8?vid=9
 
