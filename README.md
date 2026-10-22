@@ -453,6 +453,6 @@ https://cdn.qd.je/163189/viu6
 
 
 
-#EXTINF:-1 group-title="FIFA ASEAN CUP 2026" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2022/3/21/1647846719088_381.png" , CCTV+5
+#EXTINF:-1 group-title="Asian Games Aichi-Nagoya 2026" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2022/3/21/1647846719088_381.png" , CCTV+5
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cdn.qd.je/163189/cctv5p
