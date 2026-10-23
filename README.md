@@ -448,11 +448,23 @@ https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-sk/asiad_2_paid/live/asiad_2
 https://cdn.qd.je/163189/viu6
 
 
+#EXTINF:-1 group-title="🇨🇳| Trung Quốc" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/86/CCTV5.png/revision/latest/scale-to-width-down/1280?cb=20250201092935&path-prefix=vi", CCTV5
+https://cdn.qd.je/163189/cctv5
 
 
 
 
-
-#EXTINF:-1 group-title="Asian Games Aichi-Nagoya 2026" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2022/3/21/1647846719088_381.png" , CCTV+5
+#EXTINF:-1 group-title="🇨🇳| Trung Quốc" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/62/CCTV5%2B_logo.png/revision/latest?cb=20220226104639&path-prefix=vi" , CCTV5+
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cdn.qd.je/163189/cctv5p
+
+
+#EXTINF:-1 group-title="🇨🇳| Trung Quốc" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/CCTV-16.png/revision/latest?cb=20211107032828", CCTV16
+https://cdn.qd.je/163189/cctv16
+
+
+
+
+
+
+
