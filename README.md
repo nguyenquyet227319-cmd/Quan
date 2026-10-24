@@ -454,7 +454,7 @@ https://cdn.qd.je/163189/cctv5
 
 
 
-#EXTINF:-1 group-title="🇨🇳| Trung Quốc" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/62/CCTV5%2B_logo.png/revision/latest?cb=20220226104639&path-prefix=vi" , CCTV5+
+#EXTINF:-1 group-title="🇨🇳| Trung Quốc" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV5%2B.webp" , CCTV5+
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cdn.qd.je/163189/cctv5p
 
