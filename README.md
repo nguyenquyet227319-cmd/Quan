@@ -436,10 +436,7 @@ https://livevliatmcdw.seenow.vn/live/data8/SKSS2/Live_DASHDRM/SKSS2.mpd
 https://vmttv.dpdns.org/tv360/?id=vtv6
 
 
-#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv7.png", VTV7 TV360 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vips-
-https://vmttv.dpdns.org/tv360/?id=vtv7
+#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv7.png", VTV7 TV360 https://vmttv.dpdns.org/tv360/?id=vtv7
 
 #EXTINF:-1 group-title="Asian Games Aichi-Nagoya 2026" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/metadata/20260920/2026092011/WnRLPwfDqb-thumbliveasiadvtvgohangngay2.webp&width=1080", TRỰC TIẾP 1
 https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-sk/asiad_1_paid/live/asiad_1_1080p/chunks.m3u8
