@@ -459,7 +459,7 @@ https://cdn.qd.je/163189/cctv5
 https://cdn.qd.je/163189/cctv5p
 
 
-#EXTINF:-1 group-title="🇨🇳| Trung Quốc" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/CCTV-16.png/revision/latest?cb=20211107032828", CCTV16
+#EXTINF:-1 group-title="🇨🇳| Trung Quốc" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV16.webp", CCTV16
 https://cdn.qd.je/163189/cctv16
 
 
