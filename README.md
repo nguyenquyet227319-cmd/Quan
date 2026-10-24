@@ -448,7 +448,7 @@ https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-sk/asiad_2_paid/live/asiad_2
 https://cdn.qd.je/163189/viu6
 
 
-#EXTINF:-1 group-title="🇨🇳| Trung Quốc" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/86/CCTV5.png/revision/latest/scale-to-width-down/1280?cb=20250201092935&path-prefix=vi", CCTV5
+#EXTINF:-1 group-title="🇨🇳| Trung Quốc" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV5.webp", CCTV5
 https://cdn.qd.je/163189/cctv5
 
 
