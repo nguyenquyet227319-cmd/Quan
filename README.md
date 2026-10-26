@@ -30,7 +30,8 @@ https://vips-livecdn.fptplay.net/live/media/vtv5/live247-hls-avc/vtv5-avc1_56000
 
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv6.png" , VTV6 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
+https://tv.vietanhtv.top/tv360/tv360.php?id=10043&expires=1793105538&token=26a2708d70049fa393853e03c9a8722d
+
 
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv7.png" , VTV7 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
