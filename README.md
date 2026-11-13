@@ -452,14 +452,14 @@ https://cdn.qd.je/163189/viu6
 
 
 #EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV5.webp", CCTV5
-https://iptv.yang-1989.xyz/cn/cjamz6.m3u8
+https://iptv.yang-1989.xyz/cn/msqftp.m3u8
 
 
 
 
 #EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV5%2B.webp" , CCTV5+
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://iptv.yang-1989.xyz/cn/tpb4mn.m3u8
+https://iptv.yang-1989.xyz/cn/k545tf.m3u8
 
 
 #EXTINF:-1 group-title="Trung Quốc" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV16.webp", CCTV16
